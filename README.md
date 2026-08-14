@@ -1,8 +1,12 @@
 Business Problem : Retail sales analysis solves critical business problems by replacing intuition-based decision-making with 
                    data-driven insights to optimize profitability and operational efficiency.
+
 Objective : Analyze the data to improve the business
+
 Dataset :  9,994 records
+
 Tools Used : MySQL , Python , git , Github , pandas
+
 
 Key Insights : Technology generated the highest profit.
                Some products consistently generate losses.
